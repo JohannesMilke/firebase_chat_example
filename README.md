@@ -1,16 +1,37 @@
-# firebase_chat_example
+# Build A Chat App With Flutter & Firebase - Flutter
+[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
+[![Buy Flutter Courses](https://img.shields.io/static/v1?label=Buy&message=My%20Flutter%20Courses&color=5FB709&style=for-the-badge)][courses]
+    
+[![GitHub stars](https://img.shields.io/github/stars/JohannesMilke/firebase_chat_example.svg?style=social&label=Star)](https://github.com/JohannesMilke/firebase_chat_example) 
+[![GitHub forks](https://img.shields.io/github/forks/JohannesMilke/firebase_chat_example.svg?style=social&label=Fork)](https://github.com/JohannesMilke/firebase_chat_example/fork)
+[![GitHub JohannesMilke](https://img.shields.io/github/followers/JohannesMilke?label=follow&style=social)](https://github.com/JohannesMilke)
 
-A new Flutter project.
+Create a chat application with Flutter & Firebase.
 
-## Getting Started
+### ⚡&ensp;Social Media
 
-This project is a starting point for a Flutter application.
+[<img align="center" alt="JohannesMilke | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke "Twitter Johannes Milke")&ensp;Twitter: [@JohannesMilke](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke "Twitter Johannes Milke")
 
-A few resources to get you started if this is your first Flutter project:
+[<img align="center" alt="JohannesMilke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/JohannesMilke "Linkedin Johannes Milke")&ensp;Linkedin: [@JohannesMilke](https://linkedin.com/in/JohannesMilke "Linkedin Johannes Milke")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[<img align="center" alt="JohannesMilke | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@JohannesMilke "Medium Johannes Milke")&ensp;Medium: [@JohannesMilke](https://medium.com/@JohannesMilke "Medium Johannes Milke")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ✌&ensp;Preview
+
+|              App Preview             |             Course Preview           |
+| :----------------------------------: | :----------------------------------: |
+| <a href="https://www.youtube.com/watch?v=wHIcJDQbBFs" target="_blank"><img src="preview.gif" width="350"></a> | <a href="https://johannesmilke.teachable.com/p/home" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/website-df444.appspot.com/o/ad%2Fgithub_ad.png?alt=media&token=e04673a0-69e2-4950-a4ed-86f8527a5640" width="350"></a> |
+
+➜&ensp;[Buy My Courses](https://johannesmilke.teachable.com/p/home "Buy My Courses")
+
+### 📺&ensp;Watch Video
+
+##### [YouTube video](https://www.youtube.com/watch?v=wHIcJDQbBFs "Youtube Johannes Milke") where the *source code* is explained. [Subscribe YouTube channel.](http://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1 "YouTube Subscribe Johannes Milke")  
+<a href="https://www.youtube.com/watch?v=wHIcJDQbBFs&feature=player_embedded
+" target="_blank"><img src="http://img.youtube.com/vi/wHIcJDQbBFs/maxresdefault.jpg" 
+alt="Build A Chat App With Flutter & Firebase - Flutter YouTube video" width="480" border="10" /></a>
+
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
+[youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
+[courses]: https://johannesmilke.teachable.com/p/home
